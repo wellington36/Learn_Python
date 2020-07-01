@@ -1,0 +1,1 @@
+#pygame não disponibilizado
